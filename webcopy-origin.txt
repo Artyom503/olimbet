@@ -1,0 +1,80 @@
+Uri: http://kz.pokerdomeservice.com/css/img/bg-2.png
+File Name: C:\Downloaded Web Sites\kz.pokerdomeservice.com\css\img\bg-2.png
+Content Type: image/png
+
+Uri: http://kz.pokerdomeservice.com/css/img/logo2.png
+File Name: C:\Downloaded Web Sites\kz.pokerdomeservice.com\css\img\logo2.png
+Content Type: image/png
+
+Uri: http://kz.pokerdomeservice.com/css/img/main-bg2.jpg
+File Name: C:\Downloaded Web Sites\kz.pokerdomeservice.com\css\img\main-bg2.jpg
+Content Type: image/jpeg
+
+Uri: http://kz.pokerdomeservice.com/promo/css/fonts/GothamPro-Black.eot?
+File Name: C:\Downloaded Web Sites\kz.pokerdomeservice.com\promo\css\fonts\GothamPro-Black.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://kz.pokerdomeservice.com/promo/css/fonts/GothamPro-Black.ttf
+File Name: C:\Downloaded Web Sites\kz.pokerdomeservice.com\promo\css\fonts\GothamPro-Black.ttf
+Content Type: application/octet-stream
+
+Uri: http://kz.pokerdomeservice.com/promo/css/fonts/GothamPro-Black.woff
+File Name: C:\Downloaded Web Sites\kz.pokerdomeservice.com\promo\css\fonts\GothamPro-Black.woff
+Content Type: application/font-woff
+
+Uri: http://kz.pokerdomeservice.com/promo/css/fonts/GothamPro-Light.eot?
+File Name: C:\Downloaded Web Sites\kz.pokerdomeservice.com\promo\css\fonts\GothamPro-Light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://kz.pokerdomeservice.com/promo/css/fonts/GothamPro-Light.ttf
+File Name: C:\Downloaded Web Sites\kz.pokerdomeservice.com\promo\css\fonts\GothamPro-Light.ttf
+Content Type: application/octet-stream
+
+Uri: http://kz.pokerdomeservice.com/promo/css/fonts/GothamPro-Light.woff
+File Name: C:\Downloaded Web Sites\kz.pokerdomeservice.com\promo\css\fonts\GothamPro-Light.woff
+Content Type: application/font-woff
+
+Uri: http://kz.pokerdomeservice.com/promo/css/fonts/GothamPro.eot?
+File Name: C:\Downloaded Web Sites\kz.pokerdomeservice.com\promo\css\fonts\GothamPro.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://kz.pokerdomeservice.com/promo/css/fonts/GothamPro.svg
+File Name: C:\Downloaded Web Sites\kz.pokerdomeservice.com\promo\css\fonts\GothamPro.svg
+Content Type: image/svg+xml
+
+Uri: http://kz.pokerdomeservice.com/promo/css/fonts/GothamPro.ttf
+File Name: C:\Downloaded Web Sites\kz.pokerdomeservice.com\promo\css\fonts\GothamPro.ttf
+Content Type: application/octet-stream
+
+Uri: http://kz.pokerdomeservice.com/promo/css/fonts/GothamPro.woff
+File Name: C:\Downloaded Web Sites\kz.pokerdomeservice.com\promo\css\fonts\GothamPro.woff
+Content Type: application/font-woff
+
+Uri: http://kz.pokerdomeservice.com/promo/css/home.min.css
+File Name: C:\Downloaded Web Sites\kz.pokerdomeservice.com\promo\css\home.min.css
+Content Type: text/css
+
+Uri: http://kz.pokerdomeservice.com/promo/css/vendor.min.css
+File Name: C:\Downloaded Web Sites\kz.pokerdomeservice.com\promo\css\vendor.min.css
+Content Type: text/css
+
+Uri: http://kz.pokerdomeservice.com/promo/go.html
+File Name: C:\Downloaded Web Sites\kz.pokerdomeservice.com\promo\go.html
+Content Type: text/html
+
+Uri: http://kz.pokerdomeservice.com/promo/index.html
+File Name: C:\Downloaded Web Sites\kz.pokerdomeservice.com\promo\index.html
+Content Type: text/html
+
+Uri: http://kz.pokerdomeservice.com/promo/js/main.min.js
+File Name: C:\Downloaded Web Sites\kz.pokerdomeservice.com\promo\js\main.min.js
+Content Type: application/javascript
+
+Uri: http://kz.pokerdomeservice.com/promo/js/vendor/vendor.min.js
+File Name: C:\Downloaded Web Sites\kz.pokerdomeservice.com\promo\js\vendor\vendor.min.js
+Content Type: application/javascript
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\kz.pokerdomeservice.com\ajax\libs\jquery\3.2.1\jquery.min.js
+Content Type: text/javascript
+
